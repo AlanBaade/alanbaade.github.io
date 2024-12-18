@@ -117,12 +117,10 @@ disqus_shortname:  # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: UT Austin News
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://www.cs.utexas.edu/news/2024/do-things-they-hadnt-even-thought-senior-turing-scholar-publishes-second-computer-science
+        published_date: 2024-10-02
 
 # -----------------------------------------------------------------------------
 # Newsletter
