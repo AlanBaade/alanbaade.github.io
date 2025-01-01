@@ -18,4 +18,4 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Machine Learning Researcher at UT Austin under David Harwath and Kristen Grauman. Working toward universal semantic learning algorithms for speech, audio, and vision.
+I am a senior undergraduate studying Computer Science and Mathematics at UT Austin. I research at UT Austin under Professors David Harwath and Kristen Grauman. My research works toward universal semantic learning algorithms for speech, audio, and vision.
