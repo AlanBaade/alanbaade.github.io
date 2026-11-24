@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science with Turing Honors and Mathematics at UT Austin
+subtitle: CS PhD Student
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate studying Computer Science and Mathematics at UT Austin. I research at UT Austin under Professors David Harwath and Kristen Grauman. My research works toward universal semantic learning algorithms for speech, audio, and vision.
+I am a Computer Science PhD student at Stanford, advised by Fei-Fei Li. My research focuses on reasoning over learned representations of the data. I received my B.S. in Computer Science and Mathematics at UT Austin, working with David Harwath and Kristen Grauman.
